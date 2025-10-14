@@ -1,3 +1,4 @@
+// Se corrieron los test localmente y funcionan"
 import { render, screen, fireEvent } from '@testing-library/react';
 import ColorPicker from './ColorPicker';
 
