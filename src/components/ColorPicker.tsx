@@ -1,3 +1,4 @@
+// cambiar nombre"
 import { useState, useEffect } from 'react';
 
 const LOCAL_STORAGE_KEY = 'color-picker-value';
